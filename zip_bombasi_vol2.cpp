@@ -4,6 +4,7 @@
 
 int main()
 {
+	//help me
 	int kactane = 0;
 	printf("kac dosya(max 4):");
 	scanf_s(" %d", &kactane);
